@@ -8,7 +8,7 @@ Implementation for *Stitching Aware Training and Inference (SATI)* and the bench
 ## Installation
 Clone the repository
 ```
-git clone https://git.scc.kit.edu/sl6831/ganpatchinference.git
+git clone https://github.com/MoritzBoe/patch_based_image_translation.git
 cd ganpatchinference
 ```
 Create a new virtual environment:
