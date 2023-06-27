@@ -1,0 +1,14 @@
+wandb
+MNIST
+lightning_logs
+.vscode
+*.png
+*.tiff
+*.tiff
+*.xlsx
+*.pdf
+results
+__pycache__
+logs
+paper
+datasets
